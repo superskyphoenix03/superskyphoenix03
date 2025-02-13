@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Skyler Hanners, I am 21 Years old, I have a huge passion for programming, and I enjoy working with computers. I am always striving to reach new heights and be the best version of myself I can be.
-- 👀 I’m interested in creating video games, as well as various other types of nifty applications, web apps, ect. Although I do not know much yet, I am very eager to learn as much as I can.
-- 🌱 I’m currently learning  Javascript, HTML, CSS, C#, Powershell, C++, GML 1, GML 2, among others
-- 😄 My pronouns Hey/Him
-- ⚡ Fun fact: I'm currently enrolled in the Code: You Program, I'm really enjoying it so far.
+- 👀 I am primairly interested in creating video games, though I enjoy creating various other types of nifty applications as well.
+- 🌱 I’m currently learning Javascript, HTML, CSS, C#, Powershell, C++, GML, and LUA.
+- ⚡ Fun fact: I'm currently enrolled in the Code: You Software Development Program, I'm really enjoying it so far.
